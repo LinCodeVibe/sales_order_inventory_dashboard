@@ -1,0 +1,9 @@
+Product_ID,Product_Name,Category,Unit_Price,Inventory_Qty
+P001,1200W Server PSU,Power Supply,280,65
+P002,32GB DDR5 DIMM,Memory,145,120
+P003,1TB NVMe SSD,Storage,110,80
+P004,25GbE Network Adapter,Networking,190,30
+P005,2TB NVMe SSD,Storage,185,45
+P006,1600W Server PSU,Power Supply,350,25
+P007,64GB DDR5 DIMM,Memory,270,90
+P008,100GbE Network Adapter,Networking,420,20

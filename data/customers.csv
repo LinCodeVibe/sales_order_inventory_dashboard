@@ -1,0 +1,51 @@
+Customer_ID,Customer_Name,Region,Account_Manager
+C001,Alpha Data Systems,West,Jenny
+C002,Nova Cloud Technologies,West,David
+C003,Apex Computing,Central,Jenny
+C004,Vertex AI Systems,East,Michael
+C005,Quantum Server Solutions,West,Sarah
+C006,NextGen Data Center,West,David
+C007,Orion Computing,Central,Michael
+C008,Pacific Cloud Systems,West,Jenny
+C009,BluePeak Technologies,East,Sarah
+C010,CoreLink Computing,Central,David
+C011,Summit Data Solutions,West,Michael
+C012,CloudBridge Systems,East,Jenny
+C013,IronGate Computing,Central,Sarah
+C014,SilverLine Technologies,West,David
+C015,Metro Data Systems,East,Michael
+C016,PrimeCore Solutions,Central,Jenny
+C017,Redwood Computing,West,Sarah
+C018,Atlas Cloud Systems,East,David
+C019,Evergreen Data Technologies,West,Michael
+C020,Velocity Computing Solutions,Central,Jenny
+C021,NorthStar Server Systems,East,Sarah
+C022,GoldenGate Data Solutions,West,David
+C023,Pioneer Computing Group,Central,Michael
+C024,Horizon Cloud Technologies,East,Jenny
+C025,SiliconEdge Systems,West,Sarah
+C026,DigitalPeak Computing,Central,David
+C027,ClearSky Data Solutions,East,Michael
+C028,WestBridge Technologies,West,Jenny
+C029,EnterpriseCore Systems,Central,Sarah
+C030,CloudMatrix Solutions,East,David
+C031,TechNova Computing,West,Michael
+C032,DataForge Systems,Central,Jenny
+C033,HyperCore Technologies,East,Sarah
+C034,PacificEdge Computing,West,David
+C035,Vector Data Systems,Central,Michael
+C036,Infinity Cloud Solutions,East,Jenny
+C037,PowerGrid Computing,West,Sarah
+C038,Optima Server Technologies,Central,David
+C039,FutureLink Data Systems,East,Michael
+C040,WestCoast Cloud Services,West,Jenny
+C041,Unified Computing Solutions,Central,Sarah
+C042,CloudWave Technologies,East,David
+C043,Nexus Data Systems,West,Michael
+C044,Advanced Server Solutions,Central,Jenny
+C045,Digital Horizon Technologies,East,Sarah
+C046,CoreStream Computing,West,David
+C047,Enterprise Data Works,Central,Michael
+C048,Pacific Server Technologies,West,Jenny
+C049,CloudSphere Systems,East,Sarah
+C050,NextWave Computing,Central,David

@@ -1,0 +1,31 @@
+PO_ID,Product_ID,Supplier,Incoming_Qty,ETA,PO_Status
+PO001,P001,PowerTech Components,100,2026-10-15,In Transit
+PO002,P004,NetCore Electronics,60,2026-10-10,In Transit
+PO003,P006,PowerTech Components,50,2026-10-18,In Transit
+PO004,P007,MemoryWorks,100,2026-10-12,In Transit
+PO005,P008,NetCore Electronics,50,2026-10-16,In Transit
+PO006,P005,StoragePro,80,2026-10-14,In Transit
+PO007,P002,PowerTech Components,120,2026-10-20,In Transit
+PO008,P003,ComputeSource,75,2026-10-11,In Transit
+PO009,P009,MemoryWorks,150,2026-10-13,In Transit
+PO010,P010,StoragePro,90,2026-10-17,In Transit
+PO011,P001,PowerTech Components,80,2026-10-22,Confirmed
+PO012,P004,NetCore Electronics,100,2026-10-21,Confirmed
+PO013,P006,PowerTech Components,70,2026-10-25,Confirmed
+PO014,P007,MemoryWorks,200,2026-10-19,In Transit
+PO015,P008,NetCore Electronics,80,2026-10-23,Confirmed
+PO016,P005,StoragePro,120,2026-10-24,Confirmed
+PO017,P002,PowerTech Components,150,2026-10-27,Confirmed
+PO018,P003,ComputeSource,100,2026-10-20,In Transit
+PO019,P009,MemoryWorks,120,2026-10-26,Confirmed
+PO020,P010,StoragePro,60,2026-10-28,Confirmed
+PO021,P001,PowerTech Components,150,2026-11-02,Open
+PO022,P004,NetCore Electronics,80,2026-11-04,Open
+PO023,P006,PowerTech Components,100,2026-11-06,Open
+PO024,P007,MemoryWorks,180,2026-11-03,Open
+PO025,P008,NetCore Electronics,100,2026-11-07,Open
+PO026,P005,StoragePro,150,2026-11-05,Open
+PO027,P002,PowerTech Components,200,2026-11-10,Open
+PO028,P003,ComputeSource,120,2026-11-08,Open
+PO029,P009,MemoryWorks,160,2026-11-12,Open
+PO030,P010,StoragePro,100,2026-11-15,Open

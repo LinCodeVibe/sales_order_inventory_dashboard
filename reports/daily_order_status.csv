@@ -1,0 +1,4 @@
+Order_ID,Customer_Name,Issue,Shortage,ETA
+ORD001,Alpha Data Systems,Late incoming inventory,35,2026-10-15
+ORD008,Apex Computing,Late incoming inventory,15,2026-10-16
+ORD015,NextGen Data Center,Late incoming inventory,5,2026-10-16
